@@ -1,0 +1,5 @@
+Cerberus Content Management System is a dynamic, secure and infinitely expandable CMS designed after a Unix-Like model. It is a custom written Web Application Framework ( W.A.F. ) with a consistent and custom written Pre-Hyper-Text-Post-Processor Programming Code Framework ( P.C.F. ). This Web Application Software Project' aim is to be the fastest and most secure Web Application Framework, Web Application Programming Code Framework, Text, Voice and Video Communications Platform and Content Management System in the world.
+
+The latest project version is programmed with the Pre-Hyper-Text-Post-Processor P.D.O. // P.H.P. Data Objects Driver Programming Code Statements that enables it to work on any Database Management System Server: MySQL Database, Maria Database, MicrosoftSQL Database, MiniSQL Database and More..
+
+Continuation From @CerberusCMS
